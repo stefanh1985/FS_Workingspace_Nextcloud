@@ -120,6 +120,9 @@ https://docs.nextcloud.com/server/19/benutzerhandbuch/index.html
 
 # ❣️ Best Practice Beispiel(e)
 
+
+
+
 # 📈 Alles ist im Wandel
 Alles befindet sich immer im Wandel, dies gilt insbesondere für Updates von Software. Ist dir ein Fehler aufgefallen oder du hast etwas was sich verndert hat und dies soll eingearbeitet werden- Toll!! Dann melde dich bitte bei:
 
