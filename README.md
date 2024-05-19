@@ -118,6 +118,53 @@ https://docs.nextcloud.com/server/19/benutzerhandbuch/index.html
 
 
 
+## ❓FAQ 
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/hGRlr5VjYsTVZOcWm3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/wind-answer-question-mark-hGRlr5VjYsTVZOcWm3">via GIPHY</a></p>
+
+
+
+<details>
+  <summary>Was ist Nextcloud?</summary>
+  Nextcloud ist ein Programm zur Dateispeicherung und -synchronisation, ähnlich wie Dropbox oder Google Drive. Es ermöglicht dir, Dateien sicher in der Cloud zu speichern und von verschiedenen Geräten aus darauf zuzugreifen.
+</details>
+
+<details>
+  <summary>Wie lade ich Dateien in Nextcloud hoch?</summary>
+  Öffne den Nextcloud-Ordner auf deinem Computer und ziehe die Dateien, die du hochladen möchtest, in diesen Ordner. Die Dateien werden automatisch mit deinem Nextcloud-Server synchronisiert.
+</details>
+
+<details>
+  <summary>Wie teile ich Dateien mit anderen?</summary>
+  Um eine Datei zu teilen, klicke in Nextcloud auf das Teilen-Symbol neben der Datei. Du kannst einen Link generieren und diesen an andere Personen senden oder spezifische Benutzer*innen einladen, die Datei anzusehen oder zu bearbeiten.
+</details>
+
+<details>
+  <summary>Wie sicher sind meine Dateien in Nextcloud?</summary>
+  Nextcloud bietet verschiedene Sicherheitsfunktionen, darunter Verschlüsselung der Datenübertragung und Datenspeicherung. Zudem kannst du Zwei-Faktor-Authentifizierung aktivieren, um dein Konto zusätzlich zu schützen.
+</details>
+
+<details>
+  <summary>Was kann ich tun, wenn ich mein Passwort vergessen habe?</summary>
+  Wenn du dein Passwort vergessen hast, klicke auf der Anmeldeseite auf "Passwort vergessen?" und folge den Anweisungen, um ein neues Passwort zu erstellen.
+</details>
+
+<details>
+  <summary>Kann ich Nextcloud auch auf meinem Smartphone nutzen?</summary>
+  Ja, Nextcloud bietet Apps für Android und iOS. Lade die App aus dem Google Play Store oder dem Apple App Store herunter und melde dich mit deinen Zugangsdaten an.
+</details>
+
+<details>
+  <summary>Wie kann ich die Synchronisationseinstellungen ändern?</summary>
+  Öffne die Nextcloud-Anwendung auf deinem Computer, gehe zu den Einstellungen und wähle die gewünschten Synchronisationsordner und -optionen aus.
+</details>
+
+<details>
+  <summary>Wo finde ich weitere Hilfe und Unterstützung?</summary>
+  Für weitere Unterstützung besuche die Nextcloud-Dokumentation auf der offiziellen Website oder kontaktiere den Support deiner Nextcloud-Instanz.
+</details>
+
+
+
 # ❣️ Best Practice Beispiel(e)
 
 
